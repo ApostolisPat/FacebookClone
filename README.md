@@ -5,13 +5,14 @@ SocialBook is a frontend clone of Facebook. This project focuses solely on repli
 ## Project Structure
 
 The project consists of the following files:
-- `index.html`: The main HTML file that contains the structure of the web page.
+- `index.html`: The main HTML file that contains the structure of the home page.
+- `profile.html`: The Profile HTML file that contains the structure of the profile page.
 - `styles.css`: The CSS file that styles the HTML elements to resemble Facebook's design.
 - `script.js`: The JavaScript file that adds any necessary frontend behavior.
 
 ## Getting Started
 
-To view the project, simply open the `index.html` file in your web browser. Ensure that the `styles.css` and `script.js` files are in the same directory as the `index.html` file.
+To view the project, simply open the `index.html` file in your web browser. Ensure that the `styles.css`, `script.js` and `profile.html` files are in the same directory as the `index.html` file.
 
 ## Features
 
@@ -39,4 +40,5 @@ To view the project, simply open the `index.html` file in your web browser. Ensu
 
 - Inspired by the design of Facebook.
 - Created as a learning project to practice frontend development skills.
+- Thanks to the tutorial created by: [GreatStack](https://www.youtube.com/@GreatStackDev)
 
